@@ -108,4 +108,4 @@ This is a visualization that portrays a comparison of the production budget and 
 
 
 
-For the tableau visualizations, click here [👇🏾](https://public.tableau.com/views/groupproject_17302300046460/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+For the tableau visualizations, click here [Tableau](https://public.tableau.com/views/groupproject_17302300046460/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
