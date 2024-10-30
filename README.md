@@ -7,11 +7,7 @@
 
 The movie industry is highly competitive, with countless production companies vying for the attention of global audiences. After intensive research, we were tasked to research the current film industry trends to assist in directing the company's upcoming film production endeavour. Knowing what kinds of movies are doing well at the box office will be crucial to our new movie studio's success as more businesses venture into producing original video content. We will find important patterns and trends in audience preferences by examining recent box office data. To help the studio head make well-informed decisions regarding the genres, themes, and formats that are most likely to appeal to viewers and optimize our studio's success, these insights will be converted into practical insights. 
 
-
-<<<<<<< HEAD
-## Business Understanding  
-The project focuses on analyzing the film industry to guide a new movie studio in optimizing box office performance. It involves researching current trends and audience preferences through exploratory data analysis of recent box office data. Key objectives include identifying successful genres, understanding how genre influences revenue and ratings, and determining optimal budgets and release timings. By deriving actionable insights from these analyses, the project aims to help the studio make informed decisions on film production strategies to increase the likelihood of financial success in a competitive market.
-=======
+## Notebook Structure
 1. Libraries and Dependencies
 2. Data Staging
 3. Data Cleaning
@@ -19,9 +15,9 @@ The project focuses on analyzing the film industry to guide a new movie studio i
 5. Exploratory Data Analysis
 6. Linear Regression
 7. Data Visualization
-8. Insights & Recommendations
 
->>>>>>> 091a99e (modifications made)
+## Business Understanding  
+The project focuses on analyzing the film industry to guide a new movie studio in optimizing box office performance. It involves researching current trends and audience preferences through exploratory data analysis of recent box office data. Key objectives include identifying successful genres, understanding how genre influences revenue and ratings, and determining optimal budgets and release timings. By deriving actionable insights from these analyses, the project aims to help the studio make informed decisions on film production strategies to increase the likelihood of financial success in a competitive market.
 
 **Business Questions for the upcoming project**
 1.	What genres are currently the most successful at the box office? 
