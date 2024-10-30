@@ -79,22 +79,23 @@ This is a visualization that portrays a comparison of the production budget and 
 
 
 ### RECOMMENDATIONS
-It is clear that Drama, Comedy, and Action genres are the most successful because they have significantly more films produced compared to other genres, suggesting high market demand
-Genres like Sport, Sci-Fi, and Fantasy achieve high gross revenues, strong viewer ratings, and favourable ROIs, while genres like War and News have lower financial returns and ratings, making them less attractive for investment.
-Seasonal movie releases timed during some months tend to yield high revenues, while certain months experience a significant drop in audience engagement. This can help in planning release schedules.
-The strong link between domestic and worldwide gross shows that how well a film does at home is important, highlighting the need for good marketing and audience engagement in the domestic market.
+- It is clear that Drama, Comedy, and Action genres are the most successful because they have significantly more films produced compared to other genres, suggesting high market demand.
+- Genres like Sport, Sci-Fi, and Fantasy achieve high gross revenues, strong viewer ratings, and favourable ROIs, while genres like War and News have lower financial returns and ratings, making 
+  them less attractive for investment.
+- Seasonal movie releases timed during some months tend to yield high revenues, while certain months experience a significant drop in audience engagement. This can help in planning the release 
+  schedules.
+- The strong link between domestic and worldwide gross shows that how well a film does at home is important, highlighting the need for good marketing and audience engagement in the domestic 
+  market.
 
 ### CONCLUSION
-It is clear that Drama, Comedy, and Action genres are the most successful because they have significantly more films produced compared to other genres, suggesting high market demand
-Genres like Sports, Sci-Fi, and Fantasy achieve high gross revenues, strong viewer ratings, and favourable ROIs, while genres like War and News have lower financial returns and ratings, making them less attractive for investment.
-Seasonal movie releases timed during some months tend to yield high revenues, while certain months experience a significant drop in audience engagement. This can help in planning release schedules.
-The strong link between domestic and worldwide gross shows that how well a film does at home is important, highlighting the need for good marketing and audience engagement in the domestic market.
+- It is clear that Drama, Comedy, and Action genres are the most successful because they have significantly more films produced compared to other genres, suggesting high market demand.
+- Genres like Sports, Sci-Fi, and Fantasy achieve high gross revenues, strong viewer ratings, and favourable ROIs, while genres like War and News have lower financial returns and ratings, 
+  making them less attractive for investment.
+- Seasonal movie releases timed during some months tend to yield high revenues, while certain months experience a significant drop in audience engagement. This can help in planning release 
+  schedules.
+- The strong link between domestic and worldwide gross shows that how well a film does at home is important, highlighting the need for good marketing and audience engagement in the domestic 
+  market.
 
 
 
 For the tableau visualizations, click here 👇🏾https://public.tableau.com/views/groupproject_17302300046460/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-For the power point presentation click here
-[View My Presentation](https://docs.google.com/presentation/d/1X8pLrSDovqFrHsAdCNlOabk2baYjK2GZUq0JWozqKyU/edit#slide=id.g30faa7433ba_0_16)
-
-
