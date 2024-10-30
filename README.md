@@ -94,4 +94,7 @@ The strong link between domestic and worldwide gross shows that how well a film 
 
 For the tableau visualizations, click here 👇🏾https://public.tableau.com/views/groupproject_17302300046460/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+For the power point presentation click here
+[View My Presentation](https://docs.google.com/presentation/d/1X8pLrSDovqFrHsAdCNlOabk2baYjK2GZUq0JWozqKyU/edit#slide=id.g30faa7433ba_0_16)
+
 
