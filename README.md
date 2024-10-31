@@ -55,7 +55,8 @@ A strong positive correlation between production budget and worldwide gross sugg
 This is a visualization that portrays seasonal trends in Worldwide Box office revenue.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/aeb221ecb9e53bba8f3a1aa84e038ad40d5fce73/WhatsApp%20Image%202024-10-29%20at%2022.45.08.jpeg)
 
-The line plot above compares production budgets and worldwide gross earnings over time from 2010 to 2018. The worldwide gross shows a generally upward trend, indicating that movies have been earning more globally over this period, especially notable increases around 2013, 2016, and 2018. In contrast, the production budget remains relatively stable with only slight fluctuations, suggesting that while budgets haven't increased significantly, worldwide revenue has grown, possibly reflecting improved profitability.
+The line plot above compares worldwide gross earnings over time from January to Dece,mber. The worldwide gross tends to be high between May, June, July, November and December. 
+
 
 
 
