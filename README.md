@@ -8,6 +8,7 @@
 The movie industry is highly competitive, with countless production companies vying for the attention of global audiences. After intensive research, we were tasked to research the current film industry trends to assist in directing the company's upcoming film production endeavour. Knowing what kinds of movies are doing well at the box office will be crucial to our new movie studio's success as more businesses venture into producing original video content. We will find important patterns and trends in audience preferences by examining recent box office data. To help the studio head make well-informed decisions regarding the genres, themes, and formats that are most likely to appeal to viewers and optimize our studio's success, these insights will be converted into practical insights. 
 
 ## Notebook Structure
+
 1. Libraries and Dependencies
 2. Data Staging
 3. Data Cleaning
@@ -15,6 +16,7 @@ The movie industry is highly competitive, with countless production companies vy
 5. Exploratory Data Analysis
 6. Linear Regression
 7. Data Visualization
+
 
 ## Business Understanding  
 The project focuses on analyzing the film industry to guide a new movie studio in optimizing box office performance. It involves researching current trends and audience preferences through exploratory data analysis of recent box office data. Key objectives include identifying successful genres, understanding how genre influences revenue and ratings, and determining optimal budgets and release timings. By deriving actionable insights from these analyses, the project aims to help the studio make informed decisions on film production strategies to increase the likelihood of financial success in a competitive market.
@@ -53,6 +55,7 @@ A strong positive correlation between production budget and worldwide gross sugg
 This is a visualization that portrays seasonal trends in Worldwide Box office revenue.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/aeb221ecb9e53bba8f3a1aa84e038ad40d5fce73/WhatsApp%20Image%202024-10-29%20at%2022.45.08.jpeg)
 
+The line plot above compares worldwide gross earnings over time from January to Dece,mber. The worldwide gross tends to be high between May, June, July, November and December. While having very low gross in January to April, August, and October. Thus our company could take opportunity and release movies in the high profitable months.
 
 
 
@@ -60,49 +63,49 @@ This is a visualization that portrays seasonal trends in Worldwide Box office re
 This is a visualization that portrays the comparison of the average Return on Investment(ROI) by Genre.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/9a6d5208ba40f1e3233d4756f49c29214542ddae/Average%20ROI%20by%20Genre.png)
 
-
+Sports, Horror, Romance, Fantacy and thriller genres have the highest average ROIs, suggesting that they tend to deliver better financial returns relative to their budgets. In contrast, genres like War, News, Western, and Crime have the lowest average ROIs, indicating comparatively lower profitability.
 
 
 This is a visualization that portrays the distribution of movie genres. A comparison of the number of movies and genres.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/7572ccd7c6be2efb593e8b2839ce34c897bed9ff/Distribution%20of%20Movie%20Genres.png)
 
-
+This graph indicates that Drama is the dominant genre, with Comedy and Action also being quite common. Genres like Western, War, Music, Musical, Sport, and News have the fewest movies, with very low counts compared to other genres. 
 
 
 
 This is a visualization that portrays the distribution of runtime minutes.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/a77480debf2b271b99dfcfa9d0c7f8473a84017c/Distribution%20of%20the%20Runtime%20minutes.png)
 
-
+The histogram shows that the distribution of the runtime minutes is normally distributed with mean of 100 minutes. This indicates that most movies have a runtime of 100 minutes.
 
 
 This is a visualization that portrays the scatterplot on correlation.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/3c836b7e42b05b63900c663b7f19172e3c9bd6f5/Scatterplot%20on%20correlation.png)
 
-
+This scatter plot shows a strong positive correlation between domestic gross (x-axis) and worldwide gross (y-axis) for movies. As domestic gross increases, worldwide gross also tends to increase, indicating that movies performing well domestically often succeed globally. The trend line suggests a linear relationship, showing that domestic revenue is a good predictor of worldwide revenue.
 
 
 This is a visualization that portrays a comparison of the production budget and worldwide gross by studios.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/406558a8d8382c13d124faea316e579fe13c4e3b/WhatsApp%20Image%202024-10-29%20at%2022.44.52.jpeg)
 
-
-### RECOMMENDATIONS
-It is clear that Drama, Comedy, and Action genres are the most successful because they have significantly more films produced compared to other genres, suggesting high market demand
-Genres like Sport, Sci-Fi, and Fantasy achieve high gross revenues, strong viewer ratings, and favourable ROIs, while genres like War and News have lower financial returns and ratings, making them less attractive for investment.
-Seasonal movie releases timed during some months tend to yield high revenues, while certain months experience a significant drop in audience engagement. This can help in planning release schedules.
-The strong link between domestic and worldwide gross shows that how well a film does at home is important, highlighting the need for good marketing and audience engagement in the domestic market.
+BV, Fox, Uni and WB had the high production budget and also had high Worldwide gross.
 
 ### CONCLUSION
-It is clear that Drama, Comedy, and Action genres are the most successful because they have significantly more films produced compared to other genres, suggesting high market demand
-Genres like Sports, Sci-Fi, and Fantasy achieve high gross revenues, strong viewer ratings, and favourable ROIs, while genres like War and News have lower financial returns and ratings, making them less attractive for investment.
-Seasonal movie releases timed during some months tend to yield high revenues, while certain months experience a significant drop in audience engagement. This can help in planning release schedules.
-The strong link between domestic and worldwide gross shows that how well a film does at home is important, highlighting the need for good marketing and audience engagement in the domestic market.
+- It is clear that Drama, Comedy, and Action genres are the most successful because they have significantly more films produced compared to other genres, suggesting high market demand.
+- Genres like Sports, Sci-Fi, and Fantasy achieve high gross revenues, strong viewer ratings, and favourable ROIs, while genres like War and News have lower financial returns and ratings, 
+  making them less attractive for investment.
+- Seasonal movie releases timed during some months tend to yield high revenues, while certain months experience a significant drop in audience engagement. This can help in planning release 
+  schedules.
+- The strong link between domestic and worldwide gross shows that how well a film does at home is important, highlighting the need for good marketing and audience engagement in the domestic 
+  market.
+
+
+### RECOMMENDATIONS
+* Prioritize investment in Drama, Comedy, and Action genres when developing new content. These genres have proven to attract large audiences and are likely to yield higher returns on investment.
+* Invest primarily in Sport, Sci-Fi, Fantasy, and Animation genres, as these have shown strong revenue potential and viewer engagement.
+* Releasing major films during peak months (May, June, November, and December) to capitalize on increased audience attendance during these times.
+* Focus on strong marketing and connecting with audiences at home to boost a film's worldwide profits.
 
 
 
-For the tableau visualizations, click here 👇🏾https://public.tableau.com/views/groupproject_17302300046460/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-For the power point presentation click here
-[View My Presentation](https://docs.google.com/presentation/d/1X8pLrSDovqFrHsAdCNlOabk2baYjK2GZUq0JWozqKyU/edit#slide=id.g30faa7433ba_0_16)
-
-
+For the tableau visualizations, click here [Tableau](https://public.tableau.com/views/groupproject_17302300046460/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
