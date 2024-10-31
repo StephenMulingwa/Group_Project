@@ -55,7 +55,7 @@ A strong positive correlation between production budget and worldwide gross sugg
 This is a visualization that portrays seasonal trends in Worldwide Box office revenue.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/aeb221ecb9e53bba8f3a1aa84e038ad40d5fce73/WhatsApp%20Image%202024-10-29%20at%2022.45.08.jpeg)
 
-The line plot above compares worldwide gross earnings over time from January to Dece,mber. The worldwide gross tends to be high between May, June, July, November and December. 
+The line plot above compares worldwide gross earnings over time from January to Dece,mber. The worldwide gross tends to be high between May, June, July, November and December. While having very low gross in January to April, August, and October. Thus our company could take opportunity and release movies in the high profitable months.
 
 
 
@@ -63,20 +63,20 @@ The line plot above compares worldwide gross earnings over time from January to 
 This is a visualization that portrays the comparison of the average Return on Investment(ROI) by Genre.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/9a6d5208ba40f1e3233d4756f49c29214542ddae/Average%20ROI%20by%20Genre.png)
 
-
+Sports, Horror, Romance, Fantacy and thriller genres have the highest average ROIs, suggesting that they tend to deliver better financial returns relative to their budgets. In contrast, genres like War, News, Western, and Crime have the lowest average ROIs, indicating comparatively lower profitability.
 
 
 This is a visualization that portrays the distribution of movie genres. A comparison of the number of movies and genres.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/7572ccd7c6be2efb593e8b2839ce34c897bed9ff/Distribution%20of%20Movie%20Genres.png)
 
-
+This graph indicates that Drama is the dominant genre, with Comedy and Action also being quite common. Genres like Western, War, Music, Musical, Sport, and News have the fewest movies, with very low counts compared to other genres. 
 
 
 
 This is a visualization that portrays the distribution of runtime minutes.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/a77480debf2b271b99dfcfa9d0c7f8473a84017c/Distribution%20of%20the%20Runtime%20minutes.png)
 
-
+The histogram shows that the distribution of the runtime minutes is normally distributed with mean of 100 minutes. This indicates that most movies have a runtime of 100 minutes.
 
 
 This is a visualization that portrays the scatterplot on correlation.
