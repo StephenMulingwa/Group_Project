@@ -88,6 +88,8 @@ This scatter plot shows a strong positive correlation between domestic gross (x-
 This is a visualization that portrays a comparison of the production budget and worldwide gross by studios.
 ![image](https://github.com/StephenMulingwa/Group_Project/blob/406558a8d8382c13d124faea316e579fe13c4e3b/WhatsApp%20Image%202024-10-29%20at%2022.44.52.jpeg)
 
+BV, Fox, Uni and WB had the high production budget and also had high Worldwide gross.
+
 ### CONCLUSION
 - It is clear that Drama, Comedy, and Action genres are the most successful because they have significantly more films produced compared to other genres, suggesting high market demand.
 - Genres like Sports, Sci-Fi, and Fantasy achieve high gross revenues, strong viewer ratings, and favourable ROIs, while genres like War and News have lower financial returns and ratings, 
@@ -103,9 +105,6 @@ This is a visualization that portrays a comparison of the production budget and 
 * Invest primarily in Sport, Sci-Fi, Fantasy, and Animation genres, as these have shown strong revenue potential and viewer engagement.
 * Releasing major films during peak months (May, June, November, and December) to capitalize on increased audience attendance during these times.
 * Focus on strong marketing and connecting with audiences at home to boost a film's worldwide profits.
-
-
-
 
 
 
